@@ -1,0 +1,5 @@
+﻿  task2.cpp
+E:\Visual Studio\2\task2\task2\task2.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\Visual Studio\2\task2\task2\task2.cpp(7,16): warning C4101: y2: неиспользованная локальная переменная
+E:\Visual Studio\2\task2\task2\task2.cpp(7,12): warning C4101: y1: неиспользованная локальная переменная
+  task2.vcxproj -> E:\Visual Studio\2\task2\Debug\task2.exe
